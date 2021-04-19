@@ -1,0 +1,5 @@
+Ask user to input first name
+Assign firstname to user’s input
+Ask user to input last name
+Assign lastname to user’s input
+Print lastname,firstname 
